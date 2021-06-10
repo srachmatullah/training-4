@@ -1,1 +1,1 @@
-echo "<h1> ini adalah file index dari github</h1>" > index.html
+echo "<h1> ini adalah file index dari githubv2</h1>" > index.html
